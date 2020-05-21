@@ -10,8 +10,8 @@ In this project, there will be another option. If the customer question is about
 
 In Watson Discovery I have added ecobee3_userguide.
 
-I have uploaded a demo video of this project in my youtube channel. https://youtu.be/3ZL_BuPTXZ0
+I have uploaded a demo video of this project in my youtube channel. 
 
-Node_Red Dasboard link after deploying : https://node-red-hhzbi.eu-gb.mybluemix.net/ui
+Node_Red Dasboard link after deploying : 
 
 Have a casual talks like hello,bye,good morning,etc,for(SDU) like how to set time,how to turn on heater,how to access setting,how to operate thermostat,how to set up thermostat only.
